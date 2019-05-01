@@ -25,6 +25,8 @@
     "karma-jasmine": "^2.0.1",
     "karma-typescript": "^4.0.0",
     "parcel-bundler": "^1.12.3",
-    "typescript": "^3.4.5"
+    "typescript": "^3.4.5",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }
