@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ohdyno/learn-react/issues"
   },
-  "homepage": "https://github.com/ohdyno/learn-react#readme"
+  "homepage": "https://github.com/ohdyno/learn-react#readme",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
 }
