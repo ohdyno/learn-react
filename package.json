@@ -1,0 +1,19 @@
+{
+  "name": "babysitter",
+  "version": "1.0.0",
+  "description": "Babysitter Kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ohdyno/learn-react.git"
+  },
+  "author": "Xing Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohdyno/learn-react/issues"
+  },
+  "homepage": "https://github.com/ohdyno/learn-react#readme"
+}
