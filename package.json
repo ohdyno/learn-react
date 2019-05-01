@@ -4,6 +4,7 @@
   "description": "Babysitter Kata",
   "main": "index.js",
   "scripts": {
+    "start": "parcel index.html",
     "test": "jasmine"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/ohdyno/learn-react#readme",
   "devDependencies": {
+    "parcel-bundler": "^1.12.3",
     "typescript": "^3.4.5"
   }
 }
