@@ -1,6 +1,6 @@
 import App from '../src/App';
-import * as React from 'react';
-import * as ReactDOM from 'react-dom';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 describe('scaffolding', function () {
     it('should display hi in the body of the document', function () {
